@@ -8,8 +8,11 @@ Zomato-Report-Power BI
 ## Phase of this project
 
 Phase 1: Connecting & Shaping Data using PBI Power Query Editor.
+
 Phase 2: Creating the Data Model using PBI Mod.
+
 Phase 3: Creating Calculated Fields with DAX.
+
 Phase 4: Visualizing Data with Reportsel View.
 ## Zomato Analysis Report
 
